@@ -1,0 +1,8 @@
+function [ q ] = GetQuaternionFromAngle(Angles)
+    q=zeros(4,1);
+    q(1,1)=cosd(Angles(1,1)/2)*cosd(Angles(2,1)/2)*cosd(Angles(3,1)/2)+sind(Angles(1,1)/2)*sind(Angles(2,1)/2)*sind(Angles(3,1)/2);
+    q(2,1)=sind(Angles(1,1)/2)*cosd(Angles(2,1)/2)*cosd(Angles(3,1)/2)-cosd(Angles(1,1)/2)*sind(Angles(2,1)/2)*sind(Angles(3,1)/2);
+    q(3,1)=cosd(Angles(1,1)/2)*sind(Angles(2,1)/2)*cosd(Angles(3,1)/2)+sind(Angles(1,1)/2)*cosd(Angles(2,1)/2)*sind(Angles(3,1)/2);
+    q(4,1)=cosd(Angles(1,1)/2)*cosd(Angles(2,1)/2)*sind(Angles(3,1)/2)-sind(Angles(1,1)/2)*sind(Angles(2,1)/2)*cosd(Angles
+end
+

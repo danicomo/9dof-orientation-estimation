@@ -1,0 +1,10 @@
+function [ output_args ] = GetAnglesFromQuaternion(q)
+    q0=q(1,1);
+    q1=q(2,1);
+    q2=q(3,1);
+    q3=q(4,1);
+    
+    phi=atan2(2*(q2*q3)-2*q0*q1,2*q
+
+end
+
