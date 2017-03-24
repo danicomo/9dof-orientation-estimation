@@ -35,7 +35,7 @@ Demonstration video of a basic prototype of a motion tracking system based on a 
 Miniaturized AHRS developed in the Microelectronics Lab of University of Bergamo in collaboration with STMicroelectronics (July, 2013):
 [neMEMSi demo](https://www.youtube.com/watch?v=hQidXh_ohIU)
 
-Since 2015 we are running our own business within 221e SRL, always in collaboration with University of Bergamo.
+Since 2015 we are running our own business with inertial systems within 221e SRL, always in collaboration with University of Bergamo.
 
 ## Contacts
 - Direct via personal GitHub email 
