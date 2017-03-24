@@ -1,7 +1,7 @@
 ## Summary
 Various kind of 9 Degrees of freedom IMU orientation estimation algorithm.
 
-The aim of this project is to provide efficient orientation estimation algorithms using a 9 DOF IMU. The project started back in 2011 in the framework of an academic course (Microelectronics), as a google-code hosting. We used the iNEMO V2 as IMU, released at that time by ST Microelectronics (official site http://www.st.com/internet/evalboard/product/250367.jsp ). This project was carreied out in collaboration with ST Microelectronics, R&D group, AST Advanced System Technologies / Remote Monitoring (andrea.vitali@st.com).
+The aim of this project is to provide efficient orientation estimation algorithms using a 9 DOF IMU. The project started back in 2011 in the framework of an academic course (Microelectronics), as a google-code hosting. We used the iNEMO V2 as IMU, released at that time by ST Microelectronics (official site [iNemo](http://www.st.com/internet/evalboard/product/250367.jsp)). This project was carreied out in collaboration with ST Microelectronics, R&D group, AST Advanced System Technologies / Remote Monitoring (andrea.vitali@st.com).
 
 ## Content
 
