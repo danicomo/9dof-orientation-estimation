@@ -38,6 +38,6 @@ Miniaturized AHRS developed in the Microelectronics Lab of University of Bergamo
 Since 2015 we are running our own business within 221e SRL, always in collaboration with University of Bergamo.
 
 ## Contacts
-- Direct GitHub messaging
+- Direct via personal GitHub email 
 - [221e web-site](http://www.221e.it/)
 
