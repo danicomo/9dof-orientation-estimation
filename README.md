@@ -11,7 +11,7 @@ We developed the following algorithms:
 
 - Kalman filter: implementation of Kalman filter using quaternion as system state. Attached in the "Download" section Matlab and C# sources.
 
-- AHRS estimation algorithm: this implementation is provided by the project imumargalgorithm30042010sohm ( http://code.google.com/p/imumargalgorithm30042010sohm/ ). We inserted the source as a class into our C# project, fitting it to our IMU (downloadable in the "Download" section).
+- AHRS estimation algorithm: this implementation is provided by the project [imumargalgorithm30042010sohm](http://code.google.com/p/imumargalgorithm30042010sohm/). We inserted the source as a class into our C# project, fitting it to our IMU (downloadable in the "Download" section).
 
 The "docs" folder contains the following documents:
 - "ProgettoMicroelettronica_Relazione_V16.pdf ", the first report written in 2011. ITALIAN LANGUAGE.
