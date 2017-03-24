@@ -38,6 +38,6 @@ Miniaturized AHRS developed in the Microelectronics Lab of University of Bergamo
 Since 2015 we are running our own business with inertial systems within 221e SRL, always in collaboration with University of Bergamo.
 
 ## Contacts
-- Direct via personal GitHub email 
+- Github personal email 
 - [221e web-site](http://www.221e.it/)
 
