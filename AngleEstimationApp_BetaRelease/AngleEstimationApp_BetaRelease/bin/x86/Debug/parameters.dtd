@@ -1,0 +1,8 @@
+<?xml encoding="UTF-8"?> 
+<!ELEMENT parameters (magnetometer,gyroscope)>
+<!ELEMENT magnetometer (offset,scalefactor)>
+<!ELEMENT gyroscope (offset)>
+<!ELEMENT offset (#PCDATA)>
+<!ELEMENT scalefactor (#PCDATA)>
+<!ATTLIST offset axis CDATA #REQUIRED>
+<!ATTLIST scalefactor axis CDATA #REQUIRED>

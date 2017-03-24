@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE parameters SYSTEM "parameters.dtd"[]>
+<parameters>
+  <magnetometer>
+    <offset axis="X">0,4</offset>
+    <offset axis="Y">0,07</offset>
+    <offset axis="Z">-0,11</offset>
+    <scalefactor axis="X">1,1</scalefactor>
+    <scalefactor axis="Y">1</scalefactor>
+    <scalefactor axis="Z">1,04</scalefactor>
+  </magnetometer>
+  <gyroscope>
+    <offset axis="X">-3,6982</offset>
+    <offset axis="Y">-3,357</offset>
+    <offset axis="Z">-2,5909</offset>
+  </gyroscope>
+</parameters>

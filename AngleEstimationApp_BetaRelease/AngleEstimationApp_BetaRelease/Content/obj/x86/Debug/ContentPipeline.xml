@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\myback.jpg</Source>
+      <Name>Textures\myback</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\como\Documents\UNI\V anno\Progetto di Microelettronica\AngleEstimationApp_BetaRelease\AngleEstimationApp_BetaRelease\bin\x86\Debug\Content\Textures\myback.xnb</Output>
+      <Time>2011-05-16T10:09:51.4790711+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\mytext.jpg</Source>
+      <Name>Textures\mytext</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\como\Documents\UNI\V anno\Progetto di Microelettronica\AngleEstimationApp_BetaRelease\AngleEstimationApp_BetaRelease\bin\x86\Debug\Content\Textures\mytext.xnb</Output>
+      <Time>2011-04-18T18:29:50.1114018+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\myTexture.jpg</Source>
+      <Name>Textures\myTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\como\Documents\UNI\V anno\Progetto di Microelettronica\AngleEstimationApp_BetaRelease\AngleEstimationApp_BetaRelease\bin\x86\Debug\Content\Textures\myTexture.xnb</Output>
+      <Time>2011-04-18T18:29:50.1139019+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\como\Documents\UNI\V anno\Progetto di Microelettronica\AngleEstimationApp_BetaRelease\AngleEstimationApp_BetaRelease\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\como\Documents\UNI\V anno\Progetto di Microelettronica\AngleEstimationApp_BetaRelease\AngleEstimationApp_BetaRelease\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\como\Documents\UNI\V anno\Progetto di Microelettronica\AngleEstimationApp_BetaRelease\AngleEstimationApp_BetaRelease\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\como\Documents\UNI\V anno\Progetto di Microelettronica\AngleEstimationApp_BetaRelease\AngleEstimationApp_BetaRelease\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Users\como\Documents\UNI\V anno\Progetto di Microelettronica\ZedGraph\zedgraph_dll_v5.1.5\it\ZedGraph.resources.dll</Key>
+        <Value>2008-12-12T15:01:36+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T01:16:14+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T01:16:06+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T01:16:16+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T01:16:26+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T01:16:12+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T01:16:06+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-02-25T15:24:04.4907855+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

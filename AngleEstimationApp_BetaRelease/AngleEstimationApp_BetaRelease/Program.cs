@@ -1,0 +1,20 @@
+using System;
+using System.Threading;
+using System.Windows.Forms;
+
+namespace AngleEstimationApp_BetaRelease
+{
+    static class Program
+    {
+        /// <summary>
+        /// The main entry point for the application.
+        /// </summary>
+        static void Main(string[] args)
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new SetUpForm());
+        }
+    }
+}
+
