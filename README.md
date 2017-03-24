@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## Summary
+Various kind of 9 Degrees of freedom IMU orientation estimation algorithm.
 
-You can use the [editor on GitHub](https://github.com/danicomo/9dof-orientation-estimation/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The aim of this project is to provide efficient orientation estimation algorithms using a 9 DOF IMU. The project started back in 2011 in the framework of an academic course (Microelectronics), as a google-code hosting. We used the iNEMO V2 as IMU, released at that time by ST Microelectronics (official site http://www.st.com/internet/evalboard/product/250367.jsp ). This project was carreied out in collaboration with ST Microelectronics, R&D group, AST Advanced System Technologies / Remote Monitoring (andrea.vitali@st.com).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Content
 
-### Markdown
+We developed the following algorithms:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Complementary filter: the simplest way to estimate orientation using a 9DOF IMU. Attached in the "Download" section Matlab and C# sources.
 
-```markdown
-Syntax highlighted code block
+- Kalman filter: implementation of Kalman filter using quaternion as system state. Attached in the "Download" section Matlab and C# sources.
 
-# Header 1
-## Header 2
-### Header 3
+- AHRS estimation algorithm: this implementation is provided by the project imumargalgorithm30042010sohm ( http://code.google.com/p/imumargalgorithm30042010sohm/ ). We inserted the source as a class into our C# project, fitting it to our IMU (downloadable in the "Download" section).
 
-- Bulleted
-- List
+The "docs" folder contains the following documents:
+- "ProgettoMicroelettronica_Relazione_V16.pdf ", the first report written in 2011. ITALIAN LANGUAGE.
+- "MicroelectronicsProject_Report_V11.pdf", a brief translation of the italian report mentioned before.
+- "GaussNewton_QuaternionComplemFilter_V13.pdf", a document explaining the implementation of a quaternion based complementary filter using a Gauss-Newton method for the observation of quaternions.
 
-1. Numbered
-2. List
+## Updates
 
-**Bold** and _Italic_ and `Code` text
+Here you can find a demonstration video of the very first implementation of the quaternion based Kalman filter (March, 2011):
+[EKF demo video](http://www.youtube.com/watch?v=p8H2-vkUM0I)
 
-[Link](url) and ![Image](src)
-```
+Demonstration video of a very basic (2 sensors only, wired connection, bulky) prototype of a motion tracking system (December, 2011):
+[First mocap demo](http://www.youtube.com/watch?v=mn8vfYt1U1I&context=C3e2c6f5ADOEgsToPDskKHH6ybFsuhwhsC-CkazIrX)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Demonstration video of our first AHRS developed in the Microelectronics Lab of University of Bergamo (August, 2012):
+[iNemo M1 BT demo video](http://www.youtube.com/watch?v=RRKzzHHReRA)
 
-### Jekyll Themes
+Demonstration video of a basic prototype of a motion tracking system based on a network of iNemoM1-BT (November, 2012):
+[Mocap iNemoM1-BT](http://www.youtube.com/watch?v=UT7Rg108syk&feature=plcp)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/danicomo/9dof-orientation-estimation/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Miniaturized AHRS developed in the Microelectronics Lab of University of Bergamo in collaboration with STMicroelectronics (July, 2013):
+[neMEMSi demo](https://www.youtube.com/watch?v=hQidXh_ohIU)
 
-### Support or Contact
+Since 2015 we are running our own business within 221e SRL, always in collaboration with University of Bergamo.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contacts
+- Direct GitHub messaging
+- [221e web-site](http://www.221e.it/)
+
