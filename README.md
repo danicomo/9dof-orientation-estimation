@@ -1,7 +1,7 @@
 ## Summary
 Various kind of 9 Degrees of freedom IMU orientation estimation algorithm.
 
-The aim of this project is to provide efficient orientation estimation algorithms using a 9 DOF IMU. The project started back in 2011 in the framework of an academic course (Microelectronics), as a google-code hosting. We used the iNEMO V2 as IMU, released at that time by ST Microelectronics (official site [iNemo](http://www.st.com/internet/evalboard/product/250367.jsp)). This project was carreied out in collaboration with ST Microelectronics, R&D group, AST Advanced System Technologies / Remote Monitoring (andrea.vitali@st.com).
+The aim of this project is to provide efficient orientation estimation algorithms using a 9 DOF IMU. The project started back in 2011 in the framework of an academic course (Microelectronics), as a google-code hosting. We used the iNEMO V2 as IMU, released at that time by ST Microelectronics (official site [iNemo](http://www.st.com/internet/evalboard/product/250367.jsp)). This project was carreied out in collaboration with ST Microelectronics, R&D group, AST Advanced System Technologies / Remote Monitoring.
 
 ## Content
 
@@ -35,7 +35,7 @@ Demonstration video of a basic prototype of a motion tracking system based on a 
 Miniaturized AHRS developed in the Microelectronics Lab of University of Bergamo in collaboration with STMicroelectronics (July, 2013):
 [neMEMSi demo](https://www.youtube.com/watch?v=hQidXh_ohIU)
 
-Since 2015 we are running our own business with inertial systems within 221e SRL, always in collaboration with University of Bergamo.
+Since 2015 we are running our own business with inertial systems within 221e SRL, always in collaboration with the University of Bergamo.
 
 ## Contacts
 - Github personal email 
