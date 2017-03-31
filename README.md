@@ -38,7 +38,7 @@ Miniaturized AHRS developed in the Microelectronics Lab of University of Bergamo
 Since 2015 we are running our own business with inertial systems within 221e SRL, always in collaboration with the University of Bergamo.
 
 ## About the authors
-[Daniele Comotti](https://it.linkedin.com/in/daniele-comotti-185a2a102) & [Michele Ermidoro](https://it.linkedin.com/in/michele-ermidoro-77268746) graduated in Computer Science Engineering in 2011. The same year joined the [Microelectronics Lab](http://www00.unibg.it/struttura/struttura.asp?cerca=ing_microlab_intro) and the [Control & Automation Lab](http://move.unibg.it/cal/) of the University of Bergamo, respectively, where they carried out their Ph.D. programs. Currently they run their own business and still collaborate with the University of Bergamo.
+[Daniele Comotti](https://it.linkedin.com/in/daniele-comotti-185a2a102) & [Michele Ermidoro](https://it.linkedin.com/in/michele-ermidoro-77268746) graduated in Computer Science Engineering at University of Bergamo in 2011. The same year joined the [Microelectronics Lab](http://www00.unibg.it/struttura/struttura.asp?cerca=ing_microlab_intro) and the [Control & Automation Lab](http://move.unibg.it/cal/) of the University of Bergamo, respectively, where they carried out their Ph.D. programs. Currently they run their own business and still collaborate with the University of Bergamo.
 
 ## Contacts
 - Github personal email 
